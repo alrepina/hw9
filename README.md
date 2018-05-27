@@ -7,10 +7,10 @@
 2) Нажимаю Command + Option + F
 3) Для удаления пустых строк в поле "Find What" ввожу регулярное выражение: ^\n  
 4) Жму Replace All
-![alt-текст](file:///Users/anfisarepina/Desktop/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201%20.png)
+![alt-текст](https://pp.userapi.com/c845418/v845418680/654a1/XDS0GHRlPZQ.jpg)
 5) Для удаления всех пустых строк в поле "Find What" ввожу регулярное выражение: ^\s  
 6) Жму Replace All
-![alt-текст](file:///Users/anfisarepina/Desktop/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201%20(2).png)
+![alt-текст](https://pp.userapi.com/c845418/v845418680/654ab/E8bdMw4oEsI.jpg)
 
 ## Задание 2
 Использовал регулярное выражение: ... заменил все вхождения на ...
